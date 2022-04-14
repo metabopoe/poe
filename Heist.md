@@ -39,6 +39,10 @@ Loot Type
 Contracts
 ```
 
+When you hit level 53, Buy: <span style="color:green">Lock|Demo|Perc</span> each 1 ChanceOrb
+
+level 59 ~ Buy: <span style="color:yellow">Counter-Thaumaturgy</span>
+
 Deception, Perception, Counter-Thaumaturgy -> Gianna
 
 Deception Contracts is most profitable.
